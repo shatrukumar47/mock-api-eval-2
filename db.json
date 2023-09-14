@@ -15,18 +15,32 @@
       "gender": "Female"
     },
         {
-      "id": 2,
+      "id": 3,
       "name": "Sheru",
       "age": 4,
       "place": "Delhi",
       "gender": "Male"
     },
         {
-      "id": 2,
+      "id": 4,
       "name": "Cheeta",
       "age": 5,
       "place": "Noida",
       "gender": "Male"
-    }
+    },
+         {
+      "id": 5,
+      "name": "Sisu",
+      "age": 1,
+      "place": "Lucknow",
+      "gender": "Female"
+    },
+         {
+      "id": 6,
+      "name": "Tiger",
+      "age": 4,
+      "place": "Chennai",
+      "gender": "Male"
+    },
   ]
   }
